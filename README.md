@@ -11,7 +11,7 @@ Portfólio pessoal apresentando projetos e informações de contato.
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-> Front-End: React, Context API, CSS, HTML, JavaScript
+> Front-End: React, CSS, HTML.
 ## 📌 Habilidades
 
 Nesse projeto, fui capaz de:
